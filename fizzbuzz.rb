@@ -1,4 +1,6 @@
 if x%3 == 0
-  print "Buzz"
+  print "Fizz"
   elsif x== 6
-  
+  print "Buzz"
+else
+  print 
