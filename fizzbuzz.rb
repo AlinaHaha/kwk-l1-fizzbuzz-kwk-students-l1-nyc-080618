@@ -1,4 +1,4 @@
-x = 10
+x = 15
 if x%3 == 0
   print "Fizz"
 else 
